@@ -77,3 +77,30 @@ By the end of the project, you should have:
   * Optional: export data, visual summary
 * **Report** explaining your code and results
 * **Presentation** summarizing the project
+
+
+✅ How to Run the Project
+
+Setup:
+
+Install Java JDK on your system.
+
+Use VS Code with the Java Extension Pack.
+
+Create a folder called BudgetTracker and save both .java files inside.
+
+Compile & Run:
+
+javac Transaction.java BudgetTracker.java
+java BudgetTracker
+
+
+Optional Enhancements:
+
+Save transactions to a file (CSV/Text).
+
+Add GUI with Swing/JavaFX.
+
+Add charts using JFreeChart.
+
+Push the project to GitHub for version control.
