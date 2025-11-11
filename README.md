@@ -11,7 +11,7 @@ A Java console-based application to track personal income and expenses.
 
 ## Team Members
 - Member 1: Palle Praneetha 
-- Member 2: Gajulaplli Sabiha
+- Member 2: Gajulapalli Sabiha
 - Member 3: Monika.j
 
 ## Problem Definition
